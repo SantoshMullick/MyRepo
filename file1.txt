@@ -1,1 +1,2 @@
 File 1 contents
+New line to file
